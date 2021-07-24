@@ -363,6 +363,7 @@ public class CadastroReserva extends javax.swing.JFrame {
         txtNome.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         txtServ.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        txtServ.setForeground(new java.awt.Color(255, 255, 255));
         txtServ.setText(TelaLogin.userNome);
 
         dtcDate.setBackground(new java.awt.Color(255, 255, 255));
