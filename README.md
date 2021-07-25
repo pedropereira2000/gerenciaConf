@@ -1,6 +1,6 @@
 # gerenciaConf | Repositório para a aula de Gerência de Configuração
 
-## Descrição da priveira atualização realizada (v1.0)
+## Descrição da priveira versão estável (v1.0)
 
 > Realizamos a alteração do software com uma modificação no layout da tela de reservas onde passamos de um layout horizontal para um vertical
 e também alteramos a cor do funda da página e a organização dos elementos na tela.
