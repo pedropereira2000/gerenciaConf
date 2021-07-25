@@ -5,9 +5,6 @@
 > Realizamos a alteração do software com uma modificação no layout da tela de reservas onde passamos de um layout horizontal para um vertical
 e também alteramos a cor do funda da página e a organização dos elementos na tela.
 
-> Na pasta **[Atualizacao](./Atualizacao)** são armazenados os documentos que foram gerados no processo de atualização do software
-como o documento de teste, protótipo e os requisitos levantados.
-
 > Na pasta **[Reserva_De_Salas](./Reserva_De_Salas)** é armazenado o código que foi atualizado em desenvolvimento e posteriormente testedo.
 
 ## Descrição dos passos para usar o software
